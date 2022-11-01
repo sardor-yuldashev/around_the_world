@@ -27,7 +27,7 @@ Check out [BACKEND LIVE DEMO](https://backend.lucastonic.repl.co/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/tsauvignon/Around-the-World.git
+git clone https://github.com/sardor-yuldashev/around_the_world
 ```
 
 2. Backend setting
